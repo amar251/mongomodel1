@@ -69,11 +69,6 @@ document.onkeyup = function(e) {
    document.getElementById('c').setAttribute('value', down_time.toString());
    document.getElementById('d').setAttribute('value', up_time.toString());
    document.getElementById('e').setAttribute('value', up_letter_array.toString());
-   console.log(document.getElementById('a').value);
-   console.log(document.getElementById('b').value);
-   console.log(document.getElementById('c').value);
-   console.log(document.getElementById('d').value);
-   console.log(document.getElementById('e').value);
 
    }
 
